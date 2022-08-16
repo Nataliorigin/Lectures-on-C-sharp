@@ -1,0 +1,15 @@
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.csproj.AssemblyReference.cache
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.AssemblyInfoInputs.cache
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.AssemblyInfo.cs
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.csproj.CoreCompileInputs.cache
+D:\Projects\Lectures on C#\L3_Examples\Example0012\bin\Debug\net6.0\Example0012.exe
+D:\Projects\Lectures on C#\L3_Examples\Example0012\bin\Debug\net6.0\Example0012.deps.json
+D:\Projects\Lectures on C#\L3_Examples\Example0012\bin\Debug\net6.0\Example0012.runtimeconfig.json
+D:\Projects\Lectures on C#\L3_Examples\Example0012\bin\Debug\net6.0\Example0012.dll
+D:\Projects\Lectures on C#\L3_Examples\Example0012\bin\Debug\net6.0\Example0012.pdb
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.dll
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\refint\Example0012.dll
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.pdb
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\Example0012.genruntimeconfig.cache
+D:\Projects\Lectures on C#\L3_Examples\Example0012\obj\Debug\net6.0\ref\Example0012.dll
