@@ -1,0 +1,15 @@
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\bin\Debug\net6.0\Examples014_recursion.exe
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\bin\Debug\net6.0\Examples014_recursion.deps.json
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\bin\Debug\net6.0\Examples014_recursion.runtimeconfig.json
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\bin\Debug\net6.0\Examples014_recursion.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\bin\Debug\net6.0\Examples014_recursion.pdb
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.csproj.AssemblyReference.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.AssemblyInfoInputs.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.AssemblyInfo.cs
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.csproj.CoreCompileInputs.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\refint\Examples014_recursion.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.pdb
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\Examples014_recursion.genruntimeconfig.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples014_recursion\obj\Debug\net6.0\ref\Examples014_recursion.dll

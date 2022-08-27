@@ -1,0 +1,15 @@
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.csproj.AssemblyReference.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.AssemblyInfoInputs.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.AssemblyInfo.cs
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.csproj.CoreCompileInputs.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\bin\Debug\net6.0\Examples013_RecursionAlgoritm.exe
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\bin\Debug\net6.0\Examples013_RecursionAlgoritm.deps.json
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\bin\Debug\net6.0\Examples013_RecursionAlgoritm.runtimeconfig.json
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\bin\Debug\net6.0\Examples013_RecursionAlgoritm.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\bin\Debug\net6.0\Examples013_RecursionAlgoritm.pdb
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\refint\Examples013_RecursionAlgoritm.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.pdb
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\Examples013_RecursionAlgoritm.genruntimeconfig.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples013_RecursionAlgoritm\obj\Debug\net6.0\ref\Examples013_RecursionAlgoritm.dll

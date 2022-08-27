@@ -1,0 +1,15 @@
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.csproj.AssemblyReference.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.AssemblyInfoInputs.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.AssemblyInfo.cs
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.csproj.CoreCompileInputs.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\bin\Debug\net6.0\Examples015_Fibonachi.exe
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\bin\Debug\net6.0\Examples015_Fibonachi.deps.json
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\bin\Debug\net6.0\Examples015_Fibonachi.runtimeconfig.json
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\bin\Debug\net6.0\Examples015_Fibonachi.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\bin\Debug\net6.0\Examples015_Fibonachi.pdb
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\refint\Examples015_Fibonachi.dll
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.pdb
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\Examples015_Fibonachi.genruntimeconfig.cache
+D:\Projects\Lectures on C#\L4_Examples\Examples015_Fibonachi\obj\Debug\net6.0\ref\Examples015_Fibonachi.dll
